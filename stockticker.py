@@ -80,7 +80,18 @@ while num_players > 0:  #game is played in this while loop.. Or is it? Players d
                 
                 
             
-
+#class Resources:
+#	def __init__(name, oil, grain, industrial, bonds, gold, silver)
+ #       name.oil = oil
+  #      name.grain = grain
+   #     name.industrial = industrial
+    #    name.bonds = bonds
+    #    name.gold = gold 
+    #    name.silver = silver
+        
+        
+    #def 
+    
             
         
         
